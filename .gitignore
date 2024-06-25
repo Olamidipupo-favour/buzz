@@ -4,7 +4,6 @@ build/
 .pytest_cache/
 .coverage*
 !.coveragerc
-.env
 htmlcov/
 coverage.xml
 .idea/
@@ -24,3 +23,5 @@ benchmarks.json
 .eggs
 *.egg-info
 /coverage/
+config.bat
+node_modules
