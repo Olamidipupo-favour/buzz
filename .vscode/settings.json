@@ -20,7 +20,7 @@
   "python.linting.pylintEnabled": true,
   "python.linting.enabled": true,
   "cmake.sourceDirectory": "${workspaceFolder}/whisper.cpp",
-  "task.allowAutomaticTasks": true,
+  "task.allowAutomaticTasks": false,
   "debug.openDebug": "neverOpen",
   "terminal.integrated.inheritEnv": false,
   "tasks": {
